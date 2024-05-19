@@ -10,7 +10,7 @@ public class allvowelscount {
          String value = S.nextLine();
          
          counting(value);
-         
+         //Inser neew values       
 	}
          
          
